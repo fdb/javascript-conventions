@@ -1,0 +1,14 @@
+var $ = function () {};
+var module = function () {};
+var test = function () {};
+var ok = function () {};
+var equals = function () {};
+var window = {};
+
+///////////////////////////////////////////////////////
+
+
+qunit.js line 1164
+ obj.setInterval !== undefined &
+ 
+ undefined should be "undefined".

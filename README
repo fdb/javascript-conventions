@@ -1,0 +1,7 @@
+This project contains my coding conventions for JavaScript.
+
+It is heavily inspired on the work of Douglas Crockford (http://javascript.crockford.com/code.html).
+
+I've added examples and notes about objects and unit testing.
+
+The project also contains a test suite that documents some of the trickier bits of JavaScript.
